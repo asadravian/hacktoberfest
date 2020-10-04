@@ -17,7 +17,7 @@ Please note we have a code of conduct, please follow it in all your interactions
    do not have permission to do that, you may request the second reviewer to merge it for you.
 
 STEPS:
-Watch this:
+
 <p><a href="https://hacktoberfest.digitalocean.com/details?wvideo=u8up7h2m32"><img src="https://embed-fastly.wistia.com/deliveries/c0b560e0d358cc3f8fb5b1a5a4c4d20f.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=1e71e7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://hacktoberfest.digitalocean.com/details?wvideo=u8up7h2m32">Hacktoberfest presented by DigitalOcean</a></p>
 
 Or Read there: 
