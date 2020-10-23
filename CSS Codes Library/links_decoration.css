@@ -1,0 +1,22 @@
+/*Here i am contributing with some navbar links decoration styles and codes*/
+nav a{
+    color:#000000;
+    margin-left: 100px;
+    padding: 15px 40px;
+    text-decoration: none;
+    border: solid none;
+    border-width: 1px;
+    border-radius: 10px;
+    background:rgba(255,255,255, 0.3);
+}
+
+nav a:hover{
+    background-color: #ffffff;
+}
+nav a:active{
+    background-color:#ffffff;
+}
+
+nav a:focus{
+    background-color: #ffffff;
+}
