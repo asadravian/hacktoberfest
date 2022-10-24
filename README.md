@@ -7,8 +7,5 @@ I have created readme-edits as a new branch for you guys - especially for beginn
 It is open for all and accepting PRs as per guidlines.
 
 
-For more, let's connect at:
-https://www.linkedin.com/in/asad-ravian <br>
-https://dsc.community.dev/comsats-university-lahore/
-
-[Linkedin - Kumail](https://www.linkedin.com/in/mkumail1/)
+For more, let's connect via:
+https://www.linkedin.com/in/asadravian <br>
