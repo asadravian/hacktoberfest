@@ -1,5 +1,5 @@
-# hacktoberfest 
-Let's hack open source world in October together!
+# hacktoberfest coding hackathon
+Let's hack open source world together!
 https://hacktoberfest.digitalocean.com/details
 
 I have created readme-edits as a new branch for you guys - especially for beginner.
